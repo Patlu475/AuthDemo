@@ -91,7 +91,7 @@ export default function SignInComponent() {
             </Link>
           </div>
           <div className="text-sm text-center">
-            Don't have an account?{' '}
+            Don&#39;t have an account?
             <Link className="text-primary hover:underline" href="/sign-up">
               Sign up
             </Link>
